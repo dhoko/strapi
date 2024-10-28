@@ -1,3 +1,4 @@
+
 # Contribute to Strapi
 
 Strapi is an open-source project administered by [the Strapi team](https://strapi.io/about-us). We appreciate your interest and efforts to contribute to Strapi. See the [LICENSE](https://github.com/strapi/strapi/blob/main/LICENSE) licensing information. All work done is available on GitHub.
